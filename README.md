@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-en-mi-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu aliento en mí, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi-vol-2/) |
+| **Get License** | [Request Licensing for Tu aliento en mí, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento en mí, veneno dulce y feroz
+> Me atrapa lento, me enciende la voz
+> Bajo la luna, bailando los dos
+> Esta noche es nuestra, sin miedo, sin Dios
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
